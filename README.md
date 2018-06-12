@@ -4,7 +4,7 @@ Projects created using meteor and React JS.
 Keeps record of who got how many kills in a single game.
 Created using Meteor as backend and React as frontend.
 
-![https://github.com/abhioxic/meteor-react/tree/master/public/demo.gif](https://github.com/abhioxic/meteor-react/tree/master/public/demo.gif)
+![demo.gif](https://github.com/abhioxic/meteor-react/blob/master/public/demo.gif)
 
 
 ### Features:
