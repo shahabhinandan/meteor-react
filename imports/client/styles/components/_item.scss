@@ -1,0 +1,35 @@
+.item{
+	transition: background 1s ease-out, border-color 1s ease-out;
+	background: #ffffff;
+	border: 2px solid #e8e8e8;
+	margin-bottom: 1.3rem;
+	padding: 1.3rem;
+}
+
+.item__message{
+	font-size: 1.3rem;
+	font-style: italic;
+	font-weight: 300;
+	text-align: center;
+}
+
+.item__message--empty{
+	color: #999999;
+}
+
+.item--position-1{
+	border-color: $green-alt;
+	background: $green;
+}
+
+.item--position-2{
+	border-color: $blue-alt;
+	background: $blue;
+}
+
+.item--position-3{
+	border-color: $red-alt;
+	background: $red;
+}
+
+// BEM - Block, Element, Modifier
