@@ -20,9 +20,10 @@ Created using Meteor as backend and React as frontend.
   
 ## Installation:
 Install locally by
-  Head over to [Meteor site](https://www.meteor.com) to install Meteor.
-```git clone https://github.com/abhioxic/meteor-react.git
+   Head over to [Meteor site](https://www.meteor.com) to install Meteor.
+```
+git clone https://github.com/abhioxic/meteor-react.git
 cd meteor-react
 meteor run --release 1.7.0.1
 ```
-in your browser, visit (localhost:3000) to view the app.
+in your browser, visit localhost:3000 to view the app.
