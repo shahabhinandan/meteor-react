@@ -4,18 +4,20 @@ Projects created using meteor and React JS.
 Keeps record of who got how many kills in a single game.
 Created using Meteor as backend and React as frontend.
 
+Visit [**Here**](https://score-keep-abhi.herokuapp.com/) demo
+
 ![demo.gif](https://github.com/abhioxic/meteor-react/blob/master/public/demo.gif)
 
 
 ### Features:
   1. Simple and elegant single page design.
-  2. Instantaeneous.
+  2. Instantaeneous and can handle concurrent use.
   3. Beautiful animations and colors.
   4. Modular.
 
 ### To Dos:
   1. Clean code.
-  2. Publish on heroku.
+  2. ~Publish on heroku.~ Live Link: https://score-keep-abhi.herokuapp.com/
   3. Proper ReadMe (documentation)
   
 ## Installation:
@@ -27,3 +29,5 @@ cd meteor-react
 meteor run --release 1.7.0.1
 ```
 in your browser, visit localhost:3000 to view the app.
+
+### Technical Specification:
